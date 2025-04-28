@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test</title>
+    <link href="https://ofireshel.github.io/xiarepo/feed.xml" rel="self" />
+    <link href="https://ofireshel.github.io/xiarepo" />
+    <updated>2025-04-28T18:30:48-04:00</updated>
+    <author>
+        <name>XiaChen</name>
+    </author>
+    <id>https://ofireshel.github.io/xiarepo</id>
+
+    <entry>
+        <title>הבגידה</title>
+        <author>
+            <name>XiaChen</name>
+        </author>
+        <link href="https://ofireshel.github.io/xiarepo/hbgydh.html"/>
+        <id>https://ofireshel.github.io/xiarepo/hbgydh.html</id>
+
+        <updated>2025-04-28T17:56:49-04:00</updated>
+            <summary>
+                <![CDATA[
+                    יום הבוחר הכרזת התיקון של הממשלה הנבחרת לועדה לבחירת שופטים
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-right">יום הבוחר<figure class="post__image"><img loading="lazy"  src="https://ofireshel.github.io/xiarepo/media/posts/2/image-2.jpg" alt="" width="1024" height="768" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-xs.jpg 640w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-sm.jpg 768w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-md.jpg 1024w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-lg.jpg 1366w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-xl.jpg 1600w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-2xl.jpg 1920w"></figure>
+<p class="align-right">הכרזת התיקון של הממשלה הנבחרת לועדה לבחירת שופטים</p>
+<figure class="post__image"><img loading="lazy"  src="https://ofireshel.github.io/xiarepo/media/posts/2/image-1.jpg" alt="" width="1024" height="768" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-xs.jpg 640w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-sm.jpg 768w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-md.jpg 1024w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-lg.jpg 1366w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-xl.jpg 1600w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-2xl.jpg 1920w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

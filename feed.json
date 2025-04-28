@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://ofireshel.github.io/xiarepo",
+    "feed_url": "https://ofireshel.github.io/xiarepo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "XiaChen"
+    },
+    "items": [
+        {
+            "id": "https://ofireshel.github.io/xiarepo/hbgydh.html",
+            "url": "https://ofireshel.github.io/xiarepo/hbgydh.html",
+            "title": "הבגידה",
+            "summary": "יום הבוחר הכרזת התיקון של הממשלה הנבחרת לועדה לבחירת שופטים",
+            "content_html": "<p class=\"align-right\">יום הבוחר<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ofireshel.github.io/xiarepo/media/posts/2/image-2.jpg\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-xs.jpg 640w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-sm.jpg 768w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-md.jpg 1024w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-lg.jpg 1366w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-xl.jpg 1600w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-2-2xl.jpg 1920w\"></figure>\n<p class=\"align-right\">הכרזת התיקון של הממשלה הנבחרת לועדה לבחירת שופטים</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ofireshel.github.io/xiarepo/media/posts/2/image-1.jpg\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-xs.jpg 640w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-sm.jpg 768w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-md.jpg 1024w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-lg.jpg 1366w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-xl.jpg 1600w ,https://ofireshel.github.io/xiarepo/media/posts/2/responsive/image-1-2xl.jpg 1920w\"></figure>\n<p> </p>",
+            "author": {
+                "name": "XiaChen"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-28T17:56:49-04:00",
+            "date_modified": "2025-04-28T18:30:48-04:00"
+        }
+    ]
+}
